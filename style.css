@@ -1,0 +1,30 @@
+html {
+  background-color: rgb(197, 184, 142);
+}
+h1 {
+  color: rgb(0, 0, 0);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  width: 500px;
+}
+h2 {
+  color: rgb(185, 121, 0);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 1px;
+  margin-top: 50px;
+}
+body {
+  background-color: white;
+  border-radius: 15px;
+  width: 500px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  font-family: "Verdana", "Geneva", "Tahoma", sans-serif;
+  border-style: solid;
+}
+a {
+  color: navy;
+  text-decoration: none;
+}
+a:hover {
+  font-weight: bold;
+}
